@@ -1,0 +1,4 @@
+site_name: djangorestframework-last-modified
+site_description: Your project description goes here
+repo_url: https://github.com/jatir/django-rest-framework-last-modified
+site_dir: html
