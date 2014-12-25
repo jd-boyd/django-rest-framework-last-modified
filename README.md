@@ -5,13 +5,13 @@
 
 ## Overview
 
-Your project description goes here
+Last Modified header support for Django Rest Framework.
 
 ## Requirements
 
-* Python (2.7, 3.3, 3.4)
-* Django (1.6, 1.7)
-* Django REST Framework (2.4.3, 2.4.4, 3.0-beta)
+* Python (3.3, 3.4)
+* Django (1.7)
+* Django REST Framework (3.0)
 
 ## Installation
 

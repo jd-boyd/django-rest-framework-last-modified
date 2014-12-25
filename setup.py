@@ -8,7 +8,7 @@ from setuptools import setup
 
 name = 'djangorestframework-last-modified'
 package = 'last_modified'
-description = 'Your project description goes here'
+description = 'Last Modified header support for Django Rest Framework.'
 url = 'https://github.com/jatir/django-rest-framework-last-modified'
 author = 'Josh Atir'
 author_email = 'josh@plonked.com'
@@ -83,8 +83,6 @@ setup(
         'License :: OSI Approved :: BSD License',
         'Operating System :: OS Independent',
         'Natural Language :: English',
-        'Programming Language :: Python :: 2',
-        'Programming Language :: Python :: 2.7',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.3',
         'Programming Language :: Python :: 3.4',
