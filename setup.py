@@ -11,7 +11,7 @@ package = 'last_modified'
 description = 'Last Modified header support for Django Rest Framework.'
 url = 'https://github.com/jatir/django-rest-framework-last-modified'
 author = 'Josh Atir'
-author_email = 'josh@plonked.com'
+author_email = 'joshatir@gmail.com'
 license = 'BSD'
 
 
@@ -76,7 +76,7 @@ setup(
     package_data=get_package_data(package),
     install_requires=[],
     classifiers=[
-        'Development Status :: 2 - Pre-Alpha',
+        'Development Status :: 4 - Beta',
         'Environment :: Web Environment',
         'Framework :: Django',
         'Intended Audience :: Developers',
@@ -84,7 +84,6 @@ setup(
         'Operating System :: OS Independent',
         'Natural Language :: English',
         'Programming Language :: Python :: 3',
-        'Programming Language :: Python :: 3.3',
         'Programming Language :: Python :: 3.4',
         'Topic :: Internet :: WWW/HTTP',
     ]
