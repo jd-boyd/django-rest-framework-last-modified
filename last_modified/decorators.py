@@ -102,9 +102,7 @@ class LastModifiedProcessor(object):
         return res_last_modified
 
     def is_hasnt_been_modified(self, res_last_modified, if_modified_since):
-        return res_last_modified and \
-               if_modified_since and \
-               res_last_modified <= if_modified_since
+        return res_last_modified and if_modified_since and res_last_modified <= if_modified_since
 
 
 last_modified = LastModifiedProcessor
